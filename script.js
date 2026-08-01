@@ -17,6 +17,16 @@ const steamGames = [
 ];
 
 const itchGames = [
+  {
+    title: "SEWER CALL",
+    image: "previews/SEWERCALL.png",
+    url: "https://v1to666.itch.io/sewer-call"
+  },
+  {
+    title: "Pastor",
+    image: "previews/PASTOR.png",
+    url: "https://phontum.itch.io/pastor"
+  }
 ];
 
 function escapeHtml(str){
