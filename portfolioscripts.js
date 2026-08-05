@@ -23,6 +23,11 @@ const itchGames = [
     url: "https://v1to666.itch.io/sewer-call"
   },
   {
+    title: "Lost In Transit",
+    image: "previews/LOSTINTRANSIT.png",
+    url: "https://boxer-gaming.itch.io/lost-in-transit"
+  },
+  {
     title: "Pastor",
     image: "previews/PASTOR.png",
     url: "https://phontum.itch.io/pastor"
