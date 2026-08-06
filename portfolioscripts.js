@@ -18,6 +18,11 @@ const steamGames = [
 
 const itchGames = [
   {
+    title: "Foreborn",
+    image: "previews/FOREBORN.png",
+    url: "https://twistandscream.itch.io/foreborn"
+  },
+  {
     title: "SEWER CALL",
     image: "previews/SEWERCALL.png",
     url: "https://v1to666.itch.io/sewer-call"
