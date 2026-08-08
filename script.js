@@ -5,6 +5,11 @@ const steamGames = [
     url: "https://store.steampowered.com/app/4121170/Fears_to_Fathom__Scratch_Creek/"
   },
   {
+    title: "True Nightmare - Diner Loop",
+    image: "previews/TN_DL.png",
+    url: "https://store.steampowered.com/app/4072920/True_Nightmare__Diner_Loop/"
+  },
+  {
     title: "ESKINITA",
     image: "previews/ESKINITA.png",
     url: "https://store.steampowered.com/app/4840880/ESKINITA/"
