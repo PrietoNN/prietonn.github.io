@@ -1,11 +1,11 @@
 :root{
   /* Color */
   --bg:#E1E1E1;
-  --card:#252525;
-  --card-deep:#1a1a1a;
+  --card:#1A1A1A;
+  --card-deep:#0C0C0C;
   --text:#E1E1E1;
   --text-muted:rgba(225,225,225,.62);
-  --text-on-bg:#252525;
+  --text-on-bg:#1A1A1A;
   --text-on-bg-muted:rgba(37,37,37,.6);
   --border-on-card:rgba(225,225,225,.12);
   --accent:#8FD9A8;
