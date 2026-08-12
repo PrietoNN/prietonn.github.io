@@ -6,7 +6,7 @@
   --text:#E1E1E1;
   --text-muted:rgba(225,225,225,.62);
   --text-on-bg:#1A1A1A;
-  --text-on-bg-muted:rgba(37,37,37,.6);
+  --text-on-bg-muted:rgba(26,26,26,.6);
   --border-on-card:rgba(225,225,225,.12);
   --accent:#8FD9A8;
   --accent-deep:#5FB37E;
@@ -99,7 +99,7 @@ button:focus-visible{
   position:sticky;
   top:0;
   z-index:1000;
-  background:rgba(17, 17, 17, 0.900);
+  background:rgba(04, 04, 04, 0.900);
   backdrop-filter:blur(12px);
   -webkit-backdrop-filter:blur(12px);
   box-shadow:0 4px 18px rgba(0,0,0,.18);
