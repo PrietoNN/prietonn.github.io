@@ -28,6 +28,11 @@ const itchGames = [
     url: "https://twistandscream.itch.io/foreborn"
   },
   {
+    title: "The Delivery Guy",
+    image: "previews/DELIVERYGUY.png",
+    url: "https://unfall-games.itch.io/the-delivery-guy"
+  },
+  {
     title: "SEWER CALL",
     image: "previews/SEWERCALL.png",
     url: "https://v1to666.itch.io/sewer-call"
