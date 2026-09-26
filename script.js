@@ -23,14 +23,19 @@ const steamGames = [
 
 const itchGames = [
   {
-    title: "Foreborn",
-    image: "previews/FOREBORN.png",
-    url: "https://twistandscream.itch.io/foreborn"
+    title: "Black Pines",
+    image: "previews/BLACKPINES.png",
+    url: "https://sithsal.itch.io/black-pines"
   },
   {
     title: "The Delivery Guy",
     image: "previews/DELIVERYGUY.png",
     url: "https://unfall-games.itch.io/the-delivery-guy"
+  },
+  {
+    title: "Foreborn",
+    image: "previews/FOREBORN.png",
+    url: "https://twistandscream.itch.io/foreborn"
   },
   {
     title: "SEWER CALL",
