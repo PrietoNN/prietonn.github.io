@@ -5,6 +5,21 @@ const steamGames = [
     url: "https://store.steampowered.com/app/4121170/Fears_to_Fathom__Scratch_Creek/"
   },
   {
+    title: "Cold Rails",
+    image: "previews/COLDRAILS.png",
+    url: "https://store.steampowered.com/app/4334530/Cold_Rails/"
+  },
+  {
+    title: "Family Business",
+    image: "previews/FAMILYBUSINESS.png",
+    url: "https://store.steampowered.com/app/5118760/Family_Business/"
+  },
+  {
+    title: "Fractured: Snowpine Strangers",
+    image: "previews/FRACTURED_SS.png",
+    url: "https://store.steampowered.com/app/4617310/Fractured_Snowpine_Strangers/"
+  },
+  {
     title: "True Nightmare - Diner Loop",
     image: "previews/TN_DL.png",
     url: "https://store.steampowered.com/app/4072920/True_Nightmare__Diner_Loop/"
